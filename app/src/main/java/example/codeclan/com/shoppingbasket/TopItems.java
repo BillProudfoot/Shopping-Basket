@@ -18,10 +18,10 @@ public class TopItems {
         list.add(new Item("Milk", 105, false));
         list.add(new Item("Milk", 105, false));
         list.add(new Item("Butter", 180, false));
-        list.add(new Item("Cheese", 350, false));
+        list.add(new Item("Cheese", 350, true));
         list.add(new Item("Eggs", 175, false));
         list.add(new Item("Bacon", 299, false));
-        list.add(new Item("Red Wine", 750, false));
+        list.add(new Item("Red Wine", 750, true));
         list.add(new Item("White Wine", 650, false));
         list.add(new Item("White Wine", 650, false));
         list.add(new Item("White Wine", 650, false));
