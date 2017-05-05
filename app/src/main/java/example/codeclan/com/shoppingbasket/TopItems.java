@@ -36,7 +36,7 @@ public class TopItems {
 
     public ArrayList<Item> getList(){return new ArrayList<Item>(list);}
 
-    public static ItemsActivity{
-
-    }
+//    public static ItemsActivity{
+//
+//    }
 }
