@@ -20,4 +20,5 @@ public class Item {
     public int getPrice(){return price;}
     public boolean getIsBogof(){return isBogof;}
 
+    public Integer getQtys(Integer myItems) { return qtys;}
 }
